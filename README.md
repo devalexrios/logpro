@@ -2,6 +2,10 @@
 
 Una sencilla adición a `git` que llega en forma de **alias**, `git logpro` es un **log** personalizado que me gustaría compartir con ustedes.
 
+## Demostración
+
+![Imagen demostrativa](screenshot-demo.png)
+
 ## Implementación
 
 Abre la configuración global de Git con:
